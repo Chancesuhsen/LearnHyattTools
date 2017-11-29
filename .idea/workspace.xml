@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f5fcbd1-2d5f-48db-b3c9-8e3b0ae3125f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LearnHyattTools.iml" afterPath="$PROJECT_DIR$/LearnHyattTools.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Hyatt/test/SeleniumTest.groovy" afterPath="$PROJECT_DIR$/src/Hyatt/test/SeleniumTest.groovy" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,8 +27,8 @@
       <file leaf-file-name="SeleniumTest.groovy" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Hyatt/test/SeleniumTest.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+            <state relative-caret-position="238">
+              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
               <folding>
                 <element signature="e#19#48#0" expanded="true" />
               </folding>
@@ -164,8 +163,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestSelenium1">
-    <configuration name="TestSelenium1 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.TestSelenium1 (2)">
+    <configuration name="TestSelenium1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="Hyatt.test.*" />
@@ -184,7 +183,7 @@
       <module name="LearnHyattTools" />
       <envs />
     </configuration>
-    <configuration name="TestSelenium1 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="TestSelenium1 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="Hyatt.test.*" />
@@ -342,19 +341,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.TestSelenium1 (2)" />
-      <item index="1" class="java.lang.String" itemvalue="Application.TestSelenium1 (3)" />
-      <item index="2" class="java.lang.String" itemvalue="Application.TestSelenium1 (4)" />
-      <item index="3" class="java.lang.String" itemvalue="Application.TestSelenium1 (5)" />
-      <item index="4" class="java.lang.String" itemvalue="Application.TestSelenium1" />
+      <item index="0" class="java.lang.String" itemvalue="Application.TestSelenium1 (4)" />
+      <item index="1" class="java.lang.String" itemvalue="Application.TestSelenium1 (5)" />
+      <item index="2" class="java.lang.String" itemvalue="Application.TestSelenium1" />
+      <item index="3" class="java.lang.String" itemvalue="Application.TestSelenium1 (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Application.TestSelenium1 (2)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.TestSelenium1" />
-        <item index="1" class="java.lang.String" itemvalue="Application.TestSelenium1 (5)" />
-        <item index="2" class="java.lang.String" itemvalue="Application.TestSelenium1 (4)" />
-        <item index="3" class="java.lang.String" itemvalue="Application.TestSelenium1 (3)" />
-        <item index="4" class="java.lang.String" itemvalue="Application.TestSelenium1 (2)" />
+        <item index="0" class="java.lang.String" itemvalue="Application.TestSelenium1 (2)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.TestSelenium1 (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.TestSelenium1" />
+        <item index="3" class="java.lang.String" itemvalue="Application.TestSelenium1 (5)" />
+        <item index="4" class="java.lang.String" itemvalue="Application.TestSelenium1 (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -368,12 +367,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1511973996551</updated>
-      <workItem from="1511974005610" duration="5735000" />
+      <workItem from="1511974005610" duration="6339000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5735000" />
+    <option name="totallyTimeSpent" value="6339000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
@@ -475,8 +474,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Hyatt/test/SeleniumTest.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        <state relative-caret-position="238">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
           <folding>
             <element signature="e#19#48#0" expanded="true" />
           </folding>

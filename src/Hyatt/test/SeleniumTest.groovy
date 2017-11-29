@@ -9,5 +9,7 @@ public class TestSelenium1 {
         driver.get("http://magenicautomation.azurewebsites.net/");
         WebElement contact=driver.findElement(By.cssSelector("li[id='ContactButton']"));
         contact.click();
+        driver.sleep(5000);
+        driver.close();
     }
 }
